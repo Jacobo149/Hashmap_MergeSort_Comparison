@@ -43,5 +43,8 @@ def mergeSort(arr):
 			j += 1
 			k += 1
 
+def equal():
+	#TODO: Implement this function with O(N)
+
 
 
