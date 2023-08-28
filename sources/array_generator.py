@@ -5,7 +5,7 @@ import random
 def generate_array():
     array = []
     for i in range(10000):
-        array.append(random.randint(0, 10000))
+        array.append(random.randint(0, 1000))
     return array
 
 
