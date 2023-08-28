@@ -1,7 +1,9 @@
-# Python program for implementation of MergeSort
-# From Geeks for Geeks https://www.geeksforgeeks.org/merge-sort/
+''' Python program for implementation of MergeSort
+From Geeks for Geeks https://www.geeksforgeeks.org/merge-sort/ '''
 
-
+''' Mergesort implementation to sort array of integers.
+Parameters: Array of Integers
+Returns: Sorted Array of Integers '''
 def mergeSort(arr):
 	if len(arr) > 1:
 
@@ -43,8 +45,9 @@ def mergeSort(arr):
 			j += 1
 			k += 1
 
+''' Function to check if two arrays are equal
+Parameters: Two arrays of integers
+Returns: Boolean '''
 def equal():
 	#TODO: Implement this function with O(N)
-
-
 
