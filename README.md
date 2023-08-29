@@ -28,7 +28,7 @@ Overhead and Verify Time
 Hashmap time:  10.641749600006733  
 Mergesort time:  0.026110599981620908  
 
-### Interpretation of Results
+### Interpreting of Results
 Overhead accounts for the computations needed to get the arrays into a state where they can be verified.  
 The hashmap generates the prime numbers and maps them to the dictionary.  
 For merge sort, this is the process of sorting the two arrays.
