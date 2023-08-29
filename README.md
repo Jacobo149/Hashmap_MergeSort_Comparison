@@ -19,6 +19,7 @@ python ./main.py
 ## Results
 Run with 13th Gen Intel I7  
 Run on arrays of 3000 elements    
+<br />
 Verify Time  
 Hashmap time:  0.004408500011777505  
 Mergesort time:  0.01814100000774488  
