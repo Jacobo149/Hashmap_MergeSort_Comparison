@@ -1,6 +1,7 @@
 # Hashmap_MergeSort_Comparison
 Compares the speed difference between hashmap and merge-sort as to whether two arrays are equal.  
 Hashmap maps every element to a prime number and adds the entries to a dictionary. Prime numbers are multiplied to see if arrays are equal.  
+<br />
 Merge-sort runs as expected. For loop is used to check that every element in the arrays is equal.
 
 ## How to Run
