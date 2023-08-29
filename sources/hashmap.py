@@ -8,7 +8,7 @@ def primeNumberGenerator():
     primes = []
     iterator = 2
     
-    while len(primes) < 1000:
+    while len(primes) < 3000:
     
     # Assume number is prime until shown it is not. 
         isPrime = True
