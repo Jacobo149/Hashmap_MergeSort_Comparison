@@ -48,6 +48,9 @@ def mergeSort(arr):
 ''' Function to check if two arrays are equal
 Parameters: Two arrays of integers
 Returns: Boolean '''
-def equal():
-	#TODO: Implement this function with O(N)
-
+def equal(arr1, arr2):
+	for x in arr1:
+		if x not in arr2:
+			return False
+		
+	return True

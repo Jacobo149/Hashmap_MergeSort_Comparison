@@ -10,7 +10,3 @@ def generate_array():
     for i in range(1000):
         array.append(random.randint(0, 1000))
     return array
-
-
-if __name__ == "__main__":
-    print(generate_array())
